@@ -25,6 +25,9 @@ your Golang journey.
 
 ## Using Emotion with Gatsby
 
+[Using Emotion with
+Gatsby](https://egghead.io/playlists/using-emotion-with-gatsby-c167ea3d)
+
 Emotion and Gatsby let you build static websites and dynamic
 applications while sharing composable styles.
 
@@ -35,5 +38,3 @@ maps, labels, and testing utilities.
 
 Gatsby is a free and open source framework based on React that helps
 developers build blazing fast websites and apps
-
-[Using Emotion with Gatsby](https://egghead.io/playlists/using-emotion-with-gatsby-c167ea3d)
