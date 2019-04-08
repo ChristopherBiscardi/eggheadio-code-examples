@@ -1,0 +1,1506 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "64f726718415c89771560ae5ca9b9f2b",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
+      "resolve": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "66b414b756de5c6dbc99205b23dd61c1",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1fc32581-893a-55e8-8927-bcd667e2b700": {
+      "resolve": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "e1ac5bb5a43d0ec9a671fc9a943a5f78",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
+      "resolve": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "d8482156a94b884cc52328ce7b12aca1",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
+      "resolve": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "44a32e7437858256f9e0e43e294accbd",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84dad27f-1d44-51fc-ac56-4db2e5222995": {
+      "resolve": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "99c753f93f4739c42f2922a15ffc65f9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "6f4b2fa9-66b5-5205-a03f-140005a2cfe5": {
+      "resolve": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "id": "6f4b2fa9-66b5-5205-a03f-140005a2cfe5",
+      "name": "webpack-theme-component-shadowing",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "packageJson": {
+        "name": "webpack-theme-component-shadowing",
+        "description": "An internal Gatsby plugin which handles configuring webpack to ensure theme components fall back from the user's site to theme modules.",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Chris Biscardi <chris@christopherbiscardi.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "13d389affc9ce8b498c23364e3d2358a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "61bf19a3-10e6-5c5a-a9b1-424ae92a0e1b": {
+      "resolve": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/node_modules/gatsby-mdx",
+      "id": "61bf19a3-10e6-5c5a-a9b1-424ae92a0e1b",
+      "name": "gatsby-mdx",
+      "version": "0.5.7",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onCreatePage",
+        "onCreateWebpackConfig",
+        "resolvableExtensions",
+        "preprocessSource",
+        "onCreateBabelConfig",
+        "onPreBootstrap",
+        "onPostBootstrap"
+      ],
+      "browserAPIs": [
+        "wrapRootElement"
+      ],
+      "ssrAPIs": [
+        "wrapRootElement"
+      ],
+      "pluginFilepath": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/node_modules/gatsby-mdx",
+      "packageJson": {
+        "name": "gatsby-mdx",
+        "description": "mdx integration for gatsby",
+        "version": "0.5.7",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "gatsby-transformer-plugin",
+          "mdx",
+          "markdown",
+          "remark",
+          "rehype"
+        ],
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/core",
+            "version": "^7.4.3"
+          },
+          {
+            "name": "@babel/plugin-proposal-object-rest-spread",
+            "version": "^7.4.3"
+          },
+          {
+            "name": "@babel/preset-env",
+            "version": "^7.4.3"
+          },
+          {
+            "name": "@babel/preset-react",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "core-js",
+            "version": "2"
+          },
+          {
+            "name": "debug",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "escape-string-regexp",
+            "version": "^1.0.5"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "loader-utils",
+            "version": "^1.2.3"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mdast-util-to-string",
+            "version": "^1.0.4"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "mime",
+            "version": "^2.3.1"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^5.1.0"
+          },
+          {
+            "name": "remark",
+            "version": "^10.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.2"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "static-site-generator-webpack-plugin",
+            "version": "^3.4.2"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unist-util-map",
+            "version": "^1.0.4"
+          },
+          {
+            "name": "unist-util-remove",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.4.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "jest",
+            "version": "^24.0.0"
+          },
+          {
+            "name": "js-combinatorics",
+            "version": "^0.5.3"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "@mdx-js/mdx",
+            "version": "^1.0.0-alpha.17"
+          },
+          {
+            "name": "@mdx-js/react",
+            "version": "^1.0.0-alpha.17"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "11d8fcee370169885e1997eb01988d97",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1943ff2f-9c0c-558d-8d0c-006603e8106a": {
+      "resolve": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/node_modules/gatsby-plugin-react-helmet",
+      "id": "1943ff2f-9c0c-558d-8d0c-006603e8106a",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "3.0.11",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "3.0.11",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": "Kyle Mathews <matthews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "1f1b7fd9e4a1967638cd9aa71088ae11",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9": {
+      "resolve": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/node_modules/gatsby-transformer-sharp",
+      "id": "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9",
+      "name": "gatsby-transformer-sharp",
+      "version": "2.1.17",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "2.1.17",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.33"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "8233f08f025c443d724ab4ed29a9de98",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84d6154d-4241-556c-a679-cc8339cac100": {
+      "resolve": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/node_modules/gatsby-plugin-sharp",
+      "id": "84d6154d-4241-556c-a679-cc8339cac100",
+      "name": "gatsby-plugin-sharp",
+      "version": "2.0.32",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "2.0.32",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-mozjpeg",
+            "version": "^8.0.0"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mini-svg-data-uri",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          },
+          {
+            "name": "svgo",
+            "version": "^1.2.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "8be1fa2fb69a856701915dacd959925f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "112c12f8-b222-509b-abe0-dfe93a905df9": {
+      "resolve": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/node_modules/gatsby-plugin-manifest",
+      "id": "112c12f8-b222-509b-abe0-dfe93a905df9",
+      "name": "gatsby-plugin-manifest",
+      "version": "2.0.26",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "gatsby-starter-default",
+        "short_name": "starter",
+        "start_url": "/",
+        "background_color": "#663399",
+        "theme_color": "#663399",
+        "display": "minimal-ui",
+        "icon": "src/images/gatsby-icon.png"
+      },
+      "nodeAPIs": [
+        "onPostBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/node_modules/gatsby-plugin-manifest",
+      "packageJson": {
+        "name": "gatsby-plugin-manifest",
+        "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
+        "version": "2.0.26",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "icons",
+          "manifest.webmanifest",
+          "progressive-web-app",
+          "pwa"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.15"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "d6d08836551fa6ae363002ce5e30df3a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
+      "resolve": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx",
+      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "name": "default-site-plugin",
+      "version": "d84eee0b839ec057d18110150155bd28",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx",
+      "packageJson": {
+        "name": "gatsby-starter-default",
+        "description": "A simple starter to get up and developing quickly with Gatsby",
+        "version": "0.1.0",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@mdx-js/mdx",
+            "version": "^1.0.0-rc.0"
+          },
+          {
+            "name": "@mdx-js/react",
+            "version": "^1.0.0-rc.0"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.3.5"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^2.0.37"
+          },
+          {
+            "name": "gatsby-mdx",
+            "version": "^0.5.7"
+          },
+          {
+            "name": "gatsby-plugin-manifest",
+            "version": "^2.0.26"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "^2.0.25"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^3.0.11"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.32"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.28"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^2.1.17"
+          },
+          {
+            "name": "prop-types",
+            "version": "^15.7.2"
+          },
+          {
+            "name": "react",
+            "version": "^16.8.6"
+          },
+          {
+            "name": "react-color",
+            "version": "^2.17.0"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.8.6"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "prettier",
+            "version": "^1.16.4"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "212598bd9f67c573fbf3f7fb0e1b3fe3",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Gatsby Default Starter",
+        "description": "Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.",
+        "author": "@gatsbyjs"
+      },
+      "port": 8000,
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2019-04-08T05:33:18.185Z",
+      "id": "Site",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "2730086500d7c57f9689899f29b023ae",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "211bf0e0-1839-586d-969b-d8a31cdaa74e": {
+      "resolve": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/node_modules/gatsby-source-filesystem",
+      "id": "211bf0e0-1839-586d-969b-d8a31cdaa74e",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.28",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "images",
+        "path": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/src/images"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.28",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "2.1.2"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "92f0937875007c90f97058628d6e68e4",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "ec408719-fd43-58bf-91dc-e99751b76acb": {
+      "resolve": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/node_modules/gatsby-plugin-page-creator",
+      "id": "ec408719-fd43-58bf-91dc-e99751b76acb",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.12",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.12",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "2.1.2"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "micromatch",
+            "version": "^3.1.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "a5c5fdd576af436d42aa53e683e549e6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "692372a8-e422-50f3-8961-363fcf6101b0": {
+      "id": "692372a8-e422-50f3-8961-363fcf6101b0",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "a41f09d177eaf365d49d6a884e7a8be6",
+        "type": "Directory",
+        "description": "Directory \"src/images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/src/images",
+      "relativePath": "",
+      "extension": "",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2019-04-08T05:29:44.533Z",
+      "accessTime": "2019-04-08T05:33:22.013Z",
+      "changeTime": "2019-04-08T05:29:44.533Z",
+      "birthTime": "2019-04-08T05:29:44.533Z",
+      "root": "/",
+      "dir": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/src",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8636583624,
+      "blocks": 0,
+      "atimeMs": 1554701602012.8271,
+      "mtimeMs": 1554701384533.3687,
+      "ctimeMs": 1554701384533.3687,
+      "birthtimeMs": 1554701384532.599,
+      "atime": "2019-04-08T05:33:22.013Z",
+      "mtime": "2019-04-08T05:29:44.533Z",
+      "ctime": "2019-04-08T05:29:44.533Z",
+      "birthtime": "2019-04-08T05:29:44.533Z"
+    },
+    "f66a719f-9946-5927-a120-2715a0408b1f": {
+      "id": "f66a719f-9946-5927-a120-2715a0408b1f",
+      "children": [
+        "6d6a66dc-68b7-5005-ae51-5f15e1ca830d"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "4a9773549091c227cd2eb82ccd9c5e3a",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/gatsby-icon.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/src/images/gatsby-icon.png",
+      "relativePath": "gatsby-icon.png",
+      "extension": "png",
+      "size": 21212,
+      "prettySize": "21.2 kB",
+      "modifiedTime": "2019-04-08T05:29:44.533Z",
+      "accessTime": "2019-04-08T05:29:44.533Z",
+      "changeTime": "2019-04-08T05:29:44.534Z",
+      "birthTime": "2019-04-08T05:29:44.533Z",
+      "root": "/",
+      "dir": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/src/images",
+      "base": "gatsby-icon.png",
+      "ext": ".png",
+      "name": "gatsby-icon",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8636583626,
+      "blocks": 48,
+      "atimeMs": 1554701384533.3518,
+      "mtimeMs": 1554701384533.4807,
+      "ctimeMs": 1554701384533.5847,
+      "birthtimeMs": 1554701384533.3518,
+      "atime": "2019-04-08T05:29:44.533Z",
+      "mtime": "2019-04-08T05:29:44.533Z",
+      "ctime": "2019-04-08T05:29:44.534Z",
+      "birthtime": "2019-04-08T05:29:44.533Z"
+    },
+    "6d6a66dc-68b7-5005-ae51-5f15e1ca830d": {
+      "id": "6d6a66dc-68b7-5005-ae51-5f15e1ca830d",
+      "children": [],
+      "parent": "f66a719f-9946-5927-a120-2715a0408b1f",
+      "internal": {
+        "contentDigest": "4a9773549091c227cd2eb82ccd9c5e3a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "fad5d885-5704-5e58-92e8-c862b83bf670": {
+      "id": "fad5d885-5704-5e58-92e8-c862b83bf670",
+      "children": [
+        "7cb5e08f-5b95-5aab-bada-09ac35450b1c"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "6d91c86c0fde632ba4cd01062fd9ccfa",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/gatsby-astronaut.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/src/images/gatsby-astronaut.png",
+      "relativePath": "gatsby-astronaut.png",
+      "extension": "png",
+      "size": 167273,
+      "prettySize": "167 kB",
+      "modifiedTime": "2019-04-08T05:29:44.533Z",
+      "accessTime": "2019-04-08T05:29:44.533Z",
+      "changeTime": "2019-04-08T05:29:44.533Z",
+      "birthTime": "2019-04-08T05:29:44.533Z",
+      "root": "/",
+      "dir": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/src/images",
+      "base": "gatsby-astronaut.png",
+      "ext": ".png",
+      "name": "gatsby-astronaut",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8636583625,
+      "blocks": 328,
+      "atimeMs": 1554701384532.9153,
+      "mtimeMs": 1554701384533.0835,
+      "ctimeMs": 1554701384533.179,
+      "birthtimeMs": 1554701384532.9153,
+      "atime": "2019-04-08T05:29:44.533Z",
+      "mtime": "2019-04-08T05:29:44.533Z",
+      "ctime": "2019-04-08T05:29:44.533Z",
+      "birthtime": "2019-04-08T05:29:44.533Z"
+    },
+    "7cb5e08f-5b95-5aab-bada-09ac35450b1c": {
+      "id": "7cb5e08f-5b95-5aab-bada-09ac35450b1c",
+      "children": [],
+      "parent": "fad5d885-5704-5e58-92e8-c862b83bf670",
+      "internal": {
+        "contentDigest": "6d91c86c0fde632ba4cd01062fd9ccfa",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /404/": {
+      "jsonName": "404-22d",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "ec408719-fd43-58bf-91dc-e99751b76acb",
+      "pluginCreatorId": "ec408719-fd43-58bf-91dc-e99751b76acb",
+      "componentPath": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9c818d2a2b4d42215066a7992720d2a2",
+        "description": "ec408719-fd43-58bf-91dc-e99751b76acb",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "ec408719-fd43-58bf-91dc-e99751b76acb",
+      "pluginCreatorId": "ec408719-fd43-58bf-91dc-e99751b76acb",
+      "componentPath": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "472e0d41453c970568d47508b7aacf76",
+        "description": "ec408719-fd43-58bf-91dc-e99751b76acb",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /page-2/": {
+      "jsonName": "page-2-fbc",
+      "internalComponentName": "ComponentPage2",
+      "path": "/page-2/",
+      "component": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/src/pages/page-2.js",
+      "componentChunkName": "component---src-pages-page-2-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "ec408719-fd43-58bf-91dc-e99751b76acb",
+      "pluginCreatorId": "ec408719-fd43-58bf-91dc-e99751b76acb",
+      "componentPath": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/src/pages/page-2.js",
+      "id": "SitePage /page-2/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ec77bf126f0a98d5bad701b1dfc0063a",
+        "description": "ec408719-fd43-58bf-91dc-e99751b76acb",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "jsonName": "404-html-516",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "componentPath": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "624d4cd86b9b32a6e9d14970fc7c5917",
+        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /page-3/": {
+      "jsonName": "page-3-74c",
+      "internalComponentName": "ComponentPage3",
+      "path": "/page-3/",
+      "component": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/src/pages/page-3.mdx",
+      "componentChunkName": "component---src-pages-page-3-mdx",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {
+        "frontmatter": {}
+      },
+      "pluginCreator___NODE": "61bf19a3-10e6-5c5a-a9b1-424ae92a0e1b",
+      "pluginCreatorId": "61bf19a3-10e6-5c5a-a9b1-424ae92a0e1b",
+      "componentPath": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/src/pages/page-3.mdx",
+      "id": "SitePage /page-3/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "cd393c665da5ef420942e006afaee2a1",
+        "description": "61bf19a3-10e6-5c5a-a9b1-424ae92a0e1b",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "6440e628644d8c22e2b89f9453729c39"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "sq--src-components-layout-js",
+        "sq--src-components-seo-js"
+      ],
+      "1cc35132-a595-5f68-83d0-34c1f71e2e96": [],
+      "c9192eb1-ddd9-51f7-be1a-aa9215d3e64a": [],
+      "fad5d885-5704-5e58-92e8-c862b83bf670": [
+        "sq--src-components-image-js"
+      ],
+      "7cb5e08f-5b95-5aab-bada-09ac35450b1c": [
+        "sq--src-components-image-js"
+      ]
+    },
+    "connections": {}
+  },
+  "jsonDataPaths": {
+    "dev-404-page-5f9": "386/path---dev-404-page-5-f-9-fab-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "sq--src-components-seo-js": 2417117884,
+    "sq--src-components-layout-js": 755544856,
+    "404-22d": "820/path---404-22-d-bce-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "index": "140/path---index-6a9-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "page-2-fbc": "726/path---page-2-fbc-5a8-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "404-html-516": "285/path---404-html-516-62a-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "page-3-74c": "426/path---page-3-74-c-e74-ZgNvD22DZ1bsaxJwqoEdjIBtusU",
+    "sq--src-components-image-js": 2011440971
+  },
+  "components": {
+    "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/.cache/dev-404-page.js": {
+      "componentPath": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/.cache/dev-404-page.js",
+      "query": "",
+      "pages": [
+        "/dev-404-page/"
+      ],
+      "isInBootstrap": true
+    },
+    "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/src/pages/404.js": {
+      "componentPath": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/src/pages/404.js",
+      "query": "",
+      "pages": [
+        "/404/",
+        "/404.html"
+      ],
+      "isInBootstrap": true
+    },
+    "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/src/pages/index.js": {
+      "componentPath": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/src/pages/index.js",
+      "query": "",
+      "pages": [
+        "/"
+      ],
+      "isInBootstrap": true
+    },
+    "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/src/pages/page-2.js": {
+      "componentPath": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/src/pages/page-2.js",
+      "query": "",
+      "pages": [
+        "/page-2/"
+      ],
+      "isInBootstrap": true
+    },
+    "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/src/pages/page-3.mdx": {
+      "componentPath": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/src/pages/page-3.mdx",
+      "query": "",
+      "pages": [
+        "/page-3/"
+      ],
+      "isInBootstrap": true
+    }
+  },
+  "staticQueryComponents": {
+    "sq--src-components-layout-js": {
+      "name": "SiteTitleQuery",
+      "componentPath": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/src/components/layout.js",
+      "id": "sq--src-components-layout-js",
+      "jsonName": "sq--src-components-layout-js",
+      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
+      "hash": 755544856
+    },
+    "sq--src-components-image-js": {
+      "name": "usersChrisEggheadioCodeExamplesUsingMdxproviderToControlTheRenderingOfMdxContentWithGatsbyMdxSrcComponentsImageJs2011440971",
+      "componentPath": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/src/components/image.js",
+      "id": "sq--src-components-image-js",
+      "jsonName": "sq--src-components-image-js",
+      "query": "query usersChrisEggheadioCodeExamplesUsingMdxproviderToControlTheRenderingOfMdxContentWithGatsbyMdxSrcComponentsImageJs2011440971 {\n  placeholderImage: file(relativePath: {eq: \"gatsby-astronaut.png\"}) {\n    childImageSharp {\n      fluid(maxWidth: 300) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "hash": 2011440971
+    },
+    "sq--src-components-seo-js": {
+      "name": "usersChrisEggheadioCodeExamplesUsingMdxproviderToControlTheRenderingOfMdxContentWithGatsbyMdxSrcComponentsSeoJs2417117884",
+      "componentPath": "/Users/chris/eggheadio-code-examples/using-mdxprovider-to-control-the-rendering-of-mdx-content-with-gatsby-mdx/src/components/seo.js",
+      "id": "sq--src-components-seo-js",
+      "jsonName": "sq--src-components-seo-js",
+      "query": "query usersChrisEggheadioCodeExamplesUsingMdxproviderToControlTheRenderingOfMdxContentWithGatsbyMdxSrcComponentsSeoJs2417117884 {\n  site {\n    siteMetadata {\n      title\n      description\n      author\n    }\n  }\n}\n",
+      "hash": 2417117884
+    }
+  }
+}
