@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8" />
+    <style type="text/css">
+      html {
+        box-sizing: border-box;
+      }
+      *,
+      *:before,
+      *:after {
+        box-sizing: inherit;
+      }
+      .my-box {
+        background-color: #9fbfdf;
+        border: 10px solid #6699cc;
+        padding: 10px;
+        margin: 10px;
+        width: 300px;
+      }
+      .legacy-sizing {
+        box-sizing: content-box;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="my-box legacy-sizing">
+      <p>It's CSS!</p>
+    </div>
+    <div class="my-box">
+      <p>It's CSS!</p>
+    </div>
+  </body>
+</html>
